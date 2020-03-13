@@ -1,0 +1,7 @@
+{"name":"rahim","password":"oo","utype":""}
+{"name":"akash","password":"12345","utype":""}
+{"name":"akash","password":"12345","utype":""}
+{"name":"sad","password":"sdad","utype":"Admin"}
+{"name":"asdasdas","password":"sadas","utype":"Admin"}
+{"name":"asdasdas","password":"sadas","utype":"Admin"}
+{"name":"aasdaasdas","password":"sad","utype":"A"}
